@@ -1,6 +1,6 @@
 
 import './App.css';
-import Index from "./useState/5-useState-example-3"
+import Index from "./useEffect/4-useEffect-example-2"
 
 function App() {
   return (
