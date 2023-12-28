@@ -1,0 +1,23 @@
+.drum{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.drum button{
+    border:none;
+    outline: none;
+    padding: 10px 15px;
+    font-size: 22px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+button.max{
+    background-color: blanchedalmond;
+}
+button:disabled{
+    opacity: 0.6;
+}
+
+button.min{
+    background-color: red;
+}
