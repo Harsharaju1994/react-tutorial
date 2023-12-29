@@ -1,9 +1,10 @@
 
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import AppiCalling from './projects/AppiCalling';
 //import Sample from './Sample';
 //import Adding from './projects/Adding';
-import Todo from './projects/Todo';
+//import Todo from './projects/Todo';
 //import ClassComponent from './ClassComponent';
 //import ColorChange from './projects/ColorChange';
 // import Index from "./useEffect/4-useEffect-example-2"
@@ -50,7 +51,8 @@ function App() {
         <ColorChange /> */}
         {/* <Adding />
         <Sample /> */}
-        <Todo />
+        {/* <Todo /> */}
+        <AppiCalling />
     </div>
   );
 }
